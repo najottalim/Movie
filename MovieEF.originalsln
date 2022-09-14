@@ -1,0 +1,16 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieEF", "MovieEF\MovieEF.csproj", "{3A54136A-8B9B-4971-9B1C-EC580F9C714C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A54136A-8B9B-4971-9B1C-EC580F9C714C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A54136A-8B9B-4971-9B1C-EC580F9C714C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A54136A-8B9B-4971-9B1C-EC580F9C714C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A54136A-8B9B-4971-9B1C-EC580F9C714C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,283 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/asadullokh/RiderProjects/MovieEF/MovieEF/MovieEF.csproj": {}
+  },
+  "projects": {
+    "/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Data/MovieEF.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Data/MovieEF.Data.csproj",
+        "projectName": "MovieEF.Data",
+        "projectPath": "/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Data/MovieEF.Data.csproj",
+        "packagesPath": "/Users/asadullokh/.nuget/packages/",
+        "outputPath": "/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/asadullokh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Domain/MovieEF.Domain.csproj": {
+                "projectPath": "/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Domain/MovieEF.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Domain/MovieEF.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Domain/MovieEF.Domain.csproj",
+        "projectName": "MovieEF.Domain",
+        "projectPath": "/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Domain/MovieEF.Domain.csproj",
+        "packagesPath": "/Users/asadullokh/.nuget/packages/",
+        "outputPath": "/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/asadullokh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Service/MovieEF.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Service/MovieEF.Service.csproj",
+        "projectName": "MovieEF.Service",
+        "projectPath": "/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Service/MovieEF.Service.csproj",
+        "packagesPath": "/Users/asadullokh/.nuget/packages/",
+        "outputPath": "/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/asadullokh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Data/MovieEF.Data.csproj": {
+                "projectPath": "/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Data/MovieEF.Data.csproj"
+              },
+              "/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Domain/MovieEF.Domain.csproj": {
+                "projectPath": "/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Domain/MovieEF.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.10.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/asadullokh/RiderProjects/MovieEF/MovieEF/MovieEF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/asadullokh/RiderProjects/MovieEF/MovieEF/MovieEF.csproj",
+        "projectName": "MovieEF",
+        "projectPath": "/Users/asadullokh/RiderProjects/MovieEF/MovieEF/MovieEF.csproj",
+        "packagesPath": "/Users/asadullokh/.nuget/packages/",
+        "outputPath": "/Users/asadullokh/RiderProjects/MovieEF/MovieEF/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/asadullokh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Service/MovieEF.Service.csproj": {
+                "projectPath": "/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Service/MovieEF.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "ABT": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

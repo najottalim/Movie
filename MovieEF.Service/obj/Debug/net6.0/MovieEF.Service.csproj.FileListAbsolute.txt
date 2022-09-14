@@ -1,0 +1,17 @@
+/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Service/obj/Debug/net6.0/MovieEF.Service.csproj.AssemblyReference.cache
+/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Service/obj/Debug/net6.0/MovieEF.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Service/obj/Debug/net6.0/MovieEF.Service.AssemblyInfoInputs.cache
+/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Service/obj/Debug/net6.0/MovieEF.Service.AssemblyInfo.cs
+/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Service/obj/Debug/net6.0/MovieEF.Service.csproj.CoreCompileInputs.cache
+/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Service/bin/Debug/net6.0/MovieEF.Service.deps.json
+/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Service/bin/Debug/net6.0/MovieEF.Service.dll
+/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Service/bin/Debug/net6.0/MovieEF.Service.pdb
+/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Service/bin/Debug/net6.0/MovieEF.Data.dll
+/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Service/bin/Debug/net6.0/MovieEF.Domain.dll
+/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Service/bin/Debug/net6.0/MovieEF.Data.pdb
+/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Service/bin/Debug/net6.0/MovieEF.Domain.pdb
+/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Service/obj/Debug/net6.0/MovieEF.Service.csproj.CopyComplete
+/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Service/obj/Debug/net6.0/MovieEF.Service.dll
+/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Service/obj/Debug/net6.0/refint/MovieEF.Service.dll
+/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Service/obj/Debug/net6.0/MovieEF.Service.pdb
+/Users/asadullokh/RiderProjects/MovieEF/MovieEF.Service/obj/Debug/net6.0/ref/MovieEF.Service.dll
